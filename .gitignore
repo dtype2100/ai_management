@@ -1,0 +1,5 @@
+.venv
+ai_model_dir
+ai_model_manifest
+lm-evaluation-harness
+llama.cpp

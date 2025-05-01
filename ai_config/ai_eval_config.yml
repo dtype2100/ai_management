@@ -1,0 +1,7 @@
+evaluation:
+  tasks: ["arc_easy", "hellaswag", "winogrande"]
+  num_fewshot: 0
+  device: "cpu"
+  batch_size: 2
+  metrics: ["accuracy", "loss"]
+

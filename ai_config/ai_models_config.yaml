@@ -1,0 +1,17 @@
+models:
+  - name: hyperclova-seed-vision-3b
+    repo_id: naver-hyperclovax/HyperCLOVAX-SEED-Vision-Instruct-3B
+    revision: main
+    target_dir: ai_model_dir/hf/hyperclova-seed-vision-3b
+
+  - name: hyperclova-seed-text-1.5b
+    repo_id: naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B
+    revision: main
+    target_dir: ai_model_dir/hf/hyperclova-seed-text-1.5b
+
+  - name: hyperclova-seed-text-0.5b
+    repo_id: naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-0.5B
+    revision: main
+    target_dir: ai_model_dir/hf/hyperclova-seed-text-0.5b
+
+    
