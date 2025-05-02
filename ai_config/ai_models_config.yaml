@@ -1,4 +1,5 @@
 models:
+
 # hyperclova-seed models
   - name: hyperclova-seed-vision-3b
     repo_id: naver-hyperclovax/HyperCLOVAX-SEED-Vision-Instruct-3B
@@ -14,6 +15,7 @@ models:
     repo_id: naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-0.5B
     revision: main
     target_dir: ai_model_dir/hf/hyperclova-seed-text-0.5b
+
 # kakana-nano models
   - name: kanana-nano-2.1b-base
     repo_id: kakaocorp/kanana-nano-2.1b-base
@@ -29,3 +31,14 @@ models:
     repo_id: kakaocorp/kanana-nano-2.1b-embedding
     revision: main
     target_dir: ai_model_dir/hf/kanana-nano-2.1b-embedding
+
+# qwen models
+  - name: qwen3-1.7b-base
+    repo_id: Qwen/Qwen3-1.7B-Base
+    revision: main
+    target_dir: ai_model_dir/hf/qwen3-1.7b-base
+
+  - name: qwen3-0.6b-base
+    repo_id: Qwen/Qwen3-0.6B-Base
+    revision: main
+    target_dir: ai_model_dir/hf/qwen3-0.6b-base
