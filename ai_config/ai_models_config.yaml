@@ -42,3 +42,9 @@ models:
     repo_id: Qwen/Qwen3-0.6B-Base
     revision: main
     target_dir: ai_model_dir/hf/qwen3-0.6b-base
+
+# BGE-m3-ko models
+  - name: BGE-m3-ko
+    repo_id: dragonkue/BGE-m3-ko
+    revision: main
+    target_dir: ai_model_dir/hf/BGE-m3-ko
