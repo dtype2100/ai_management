@@ -1,4 +1,5 @@
 .venv
+.venv_ai_management
 ai_model_dir
 ai_model_manifest
 lm-evaluation-harness

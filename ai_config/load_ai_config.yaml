@@ -1,0 +1,9 @@
+models:
+  - target_dir: ai_model_dir/hf/hyperclova/hyperclova-seed-vision-3b
+  - target_dir: ai_model_dir/hf/hyperclova/hyperclova-seed-text-1.5b
+  - target_dir: ai_model_dir/hf/hyperclova/hyperclova-seed-text-0.5b
+  - target_dir: ai_model_dir/hf/kanana/kanana-nano-2.1b-base
+  - target_dir: ai_model_dir/hf/kanana/kanana-nano-2.1b-instruct
+  - target_dir: ai_model_dir/hf/kanana/kanana-nano-2.1b-embedding
+  - target_dir: ai_model_dir/hf/qwen/qwen3-1.7b-base
+  - target_dir: ai_model_dir/hf/qwen/qwen3-0.6b-base

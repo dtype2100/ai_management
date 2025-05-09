@@ -1,0 +1,2 @@
+models:
+  - target_dir: ai_model_dir/hf/kanana/kanana-nano-2.1b-embedding

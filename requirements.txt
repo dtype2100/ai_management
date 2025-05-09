@@ -1,0 +1,13 @@
+transformers
+accelerate
+safetensors
+torch
+sentencepiece
+langchain_community
+langchain_huggingface
+langchain-elasticsearch
+faiss-cpu
+mteb
+sentence-transformers
+torch
+ipywidgets
