@@ -11,3 +11,4 @@ mteb
 sentence-transformers
 torch
 ipywidgets
+llama-cpp-python
