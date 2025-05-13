@@ -48,3 +48,9 @@ models:
     repo_id: dragonkue/BGE-m3-ko
     revision: main
     target_dir: ai_model_dir/hf/BGE-m3-ko
+
+  - name: gemma-3-1b-it-qat-q4_0-gguf
+    repo_id: google/gemma-3-1b-it-qat-q4_0-gguf
+    revision: main
+    target_dir: ai_model_dir/hf/gemma/gemma-3-1b-it-qat-q4_0-gguf
+
