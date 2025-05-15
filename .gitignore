@@ -3,5 +3,7 @@
 ai_model_dir
 ai_model_manifest
 lm-evaluation-harness
+llama-prompt-ops
 llama.cpp
+faiss_index
 data
